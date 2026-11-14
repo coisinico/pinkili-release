@@ -1,1 +1,1 @@
-{"apkUrl":"https://fastly.jsdelivr.net/gh/coisinico/pinkili-release@bd8aa7cf66ae206325574778e3c42060e4f34812/Pinkili.apk","notes":"关掉 VPN 也能查到更新，下载挨个门试，修了内部更新安装失败的问题","versionCode":75,"versionName":"2.64"}
+{"apkUrl":"https://fastly.jsdelivr.net/gh/coisinico/pinkili-release@266d0265fb158bc2da602a467d8cb46625aa3e00/Pinkili.apk","notes":"控制台精修：框对齐加宽、行距收紧、下拉框加小尖尖、开关关了规则卡变淡、运行状态可收起、话库按钮改名","versionCode":76,"versionName":"2.65"}
