@@ -1,1 +1,1 @@
-{"apkUrl":"https://cdn.jsdelivr.net/gh/coisinico/pinkili-release@f153ca0e6fcb9ff554f279e15a7d72a1321d68d3/Pinkili.apk","notes":"控制台新布局，频率里加了每48小时，12小时按定好的时刻换","versionCode":74,"versionName":"2.63"}
+{"apkUrl":"https://fastly.jsdelivr.net/gh/coisinico/pinkili-release@bd8aa7cf66ae206325574778e3c42060e4f34812/Pinkili.apk","notes":"关掉 VPN 也能查到更新，下载挨个门试，修了内部更新安装失败的问题","versionCode":75,"versionName":"2.64"}
