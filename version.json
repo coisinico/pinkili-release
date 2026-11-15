@@ -1,1 +1,1 @@
-{"apkUrl":"https://fastly.jsdelivr.net/gh/coisinico/pinkili-release@16661fcac6d7cdfa2d05119e0e5d88f4c302b652/Pinkili.apk","notes":"更新框按钮移至右侧","versionCode":80,"versionName":"2.69"}
+{"apkUrl":"https://fastly.jsdelivr.net/gh/coisinico/pinkili-release@05b6a6361cd8dfc5e3b2f0235b729727164fb7cd/Pinkili.apk","notes":"修复旧更新提示不消失的问题，检查更新等待时间延长","versionCode":81,"versionName":"2.70"}
