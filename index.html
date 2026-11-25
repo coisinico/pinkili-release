@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pinkili — manifest your success</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { height: 100%; }
+  body {
+    background: #ffffff;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .stage {
+    position: relative;
+    width: min(100vw, calc(100vh * 1.7768));
+    aspect-ratio: 1672 / 941;
+    background: url("pinkili-hero.png") center / 100% 100% no-repeat;
+  }
+  .hotspot-android {
+    position: absolute;
+    left: 19%;
+    top: 57%;
+    width: 14%;
+    height: 11%;
+    display: block;
+    cursor: pointer;
+  }
+  body.debug .hotspot-android {
+    outline: 3px solid #ff0000;
+    background: rgba(255, 0, 0, .15);
+  }
+</style>
+</head>
+<body>
+  <div class="stage">
+    <a class="hotspot-android" href="https://coisinico.github.io/pinkili-release/Pinkili.apk" title="下载 Pinkili APK" aria-label="下载 Pinkili APK"></a>
+  </div>
+</body>
+</html>
